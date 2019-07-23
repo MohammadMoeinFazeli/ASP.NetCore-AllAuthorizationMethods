@@ -1,0 +1,17 @@
+D:\_LearnToday\ASP.net Core\AuthJWT\AuthJWT\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\_LearnToday\ASP.net Core\AuthJWT\AuthJWT\bin\Debug\netcoreapp2.2\appsettings.json
+D:\_LearnToday\ASP.net Core\AuthJWT\AuthJWT\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\_LearnToday\ASP.net Core\AuthJWT\AuthJWT\bin\Debug\netcoreapp2.2\AuthJWT.deps.json
+D:\_LearnToday\ASP.net Core\AuthJWT\AuthJWT\bin\Debug\netcoreapp2.2\AuthJWT.runtimeconfig.json
+D:\_LearnToday\ASP.net Core\AuthJWT\AuthJWT\bin\Debug\netcoreapp2.2\AuthJWT.runtimeconfig.dev.json
+D:\_LearnToday\ASP.net Core\AuthJWT\AuthJWT\bin\Debug\netcoreapp2.2\AuthJWT.dll
+D:\_LearnToday\ASP.net Core\AuthJWT\AuthJWT\obj\Debug\netcoreapp2.2\AuthJWT.csprojAssemblyReference.cache
+D:\_LearnToday\ASP.net Core\AuthJWT\AuthJWT\obj\Debug\netcoreapp2.2\AuthJWT.csproj.CoreCompileInputs.cache
+D:\_LearnToday\ASP.net Core\AuthJWT\AuthJWT\obj\Debug\netcoreapp2.2\AuthJWT.RazorAssemblyInfo.cache
+D:\_LearnToday\ASP.net Core\AuthJWT\AuthJWT\obj\Debug\netcoreapp2.2\AuthJWT.RazorAssemblyInfo.cs
+D:\_LearnToday\ASP.net Core\AuthJWT\AuthJWT\obj\Debug\netcoreapp2.2\AuthJWT.AssemblyInfoInputs.cache
+D:\_LearnToday\ASP.net Core\AuthJWT\AuthJWT\obj\Debug\netcoreapp2.2\AuthJWT.AssemblyInfo.cs
+D:\_LearnToday\ASP.net Core\AuthJWT\AuthJWT\obj\Debug\netcoreapp2.2\AuthJWT.RazorTargetAssemblyInfo.cache
+D:\_LearnToday\ASP.net Core\AuthJWT\AuthJWT\bin\Debug\netcoreapp2.2\AuthJWT.pdb
+D:\_LearnToday\ASP.net Core\AuthJWT\AuthJWT\obj\Debug\netcoreapp2.2\AuthJWT.dll
+D:\_LearnToday\ASP.net Core\AuthJWT\AuthJWT\obj\Debug\netcoreapp2.2\AuthJWT.pdb
